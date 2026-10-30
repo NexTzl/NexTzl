@@ -22,6 +22,7 @@ I build and run production data platforms end to end: ingestion, pipelines, data
 | Project | What it shows |
 |---|---|
 | [**shopflow-pipeline**](https://github.com/NexTzl/shopflow-pipeline) | Incremental, idempotent pipeline on simulated data, with retries, quarantine for bad rows and a quality gate. Python and DuckDB. |
+| [**llm-failover-router**](https://github.com/NexTzl/llm-failover-router) | LLM access layer with failover, circuit breakers, budget control and privacy-safe audit logs, tested with a simulated provider outage. Python. |
 
 ## Professional experience
 
